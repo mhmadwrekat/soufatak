@@ -1,0 +1,71 @@
+[
+    {
+        "img": "./assestcap/cap1.jpg",
+        "price": 15
+      },
+      {
+        "img": "./assestcap/cap9.jpg",
+        "price": 15
+      },
+      {
+        "img": "./assestcap/cap13.jpg",
+        "price": 15
+      },
+      {
+        "img": "./assestcap/cap2.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap3.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap15.jpg",
+        "price": 15
+      },
+      {
+        "img": "./assestcap/cap4.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap5.jpg",
+        "price": 4
+      },
+      {
+        "img": "./assestcap/cap6.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap7.jpg",
+        "price": 5
+      },
+      {
+        "img": "./assestcap/cap8.jpg",
+        "price": 10
+      },
+      {
+        "img": "./assestcap/cap16.jpg",
+        "price": 10
+      },
+      {
+        "img": "./assestcap/cap11.jpg",
+        "price": 7
+      },
+      {
+        "img": "./assestcap/cap10.jpg",
+        "price": 3
+      },
+      {
+        "img": "./assestcap/cap12.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap14.jpg",
+        "price": 2
+      },
+      {
+        "img": "./assestcap/cap17.jpg",
+        "price": 2
+      }
+
+]

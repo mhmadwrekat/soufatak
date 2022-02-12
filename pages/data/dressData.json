@@ -1,0 +1,30 @@
+[
+    {
+        "img": "./assestDress/dress1.jpg",
+        "price": 10
+      },
+      {
+        "img": "./assestDress/dress2.jpg",
+        "price": 12
+      },
+      {
+        "img": "./assestDress/dress3.jpg",
+        "price": 10
+      },
+      {
+        "img": "./assestDress/dress4.jpg",
+        "price": 10
+      },
+      {
+        "img": "./assestDress/dress5.jpg",
+        "price": 12
+      },
+      {
+        "img": "./assestDress/dress6.jpg",
+        "price": 12
+      },
+      {
+        "img": "./assestDress/dress7.jpg",
+        "price": 10
+      }
+]
