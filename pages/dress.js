@@ -9,7 +9,7 @@ const dress = () => {
     <>
       <Nav />
       <section translate='no' className='py-10 bg-gradient-to-r from-sky-200 to-sky-100 ...'>
-        <Slide triggerOnce delay={1000}>
+        <Slide triggerOnce delay={500}>
           <PageCarosal />
         </Slide>
         <section class="overflow-hidden text-gray-700 ">

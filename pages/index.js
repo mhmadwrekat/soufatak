@@ -9,7 +9,7 @@ const index = () => {
     <>
       <section translate='no' className='bg-gradient-to-r from-sky-200 to-sky-100 ...'>
         <Nav />
-        <Slide triggerOnce delay={1000}>
+        <Slide triggerOnce delay={500}>
         <Maincarosal />
         </Slide>
         <Home />
