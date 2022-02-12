@@ -3,12 +3,15 @@ import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 import blouseData from './data/blouseData.json';
 import PageCarosal from '../components/PageCarosal';
+import { Slide } from "react-awesome-reveal";
 const blouse = () => {
     return (
         <>
             <Nav />
             <section translate='no' className='py-10 bg-gradient-to-r from-sky-200 to-sky-100 ...'>
-                <PageCarosal />
+                <Slide triggerOnce delay={1000}>
+                    <PageCarosal />
+                </Slide>
                 <section class="overflow-hidden text-gray-700 ">
                     <div class="container px-3 py-2 mx-auto lg:pt-12 lg:px-10">
                         <div class="flex flex-wrap -m-1 md:-m-2">
