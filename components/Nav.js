@@ -13,6 +13,12 @@ const Nav = () => {
       </Head>
       <section className='' translate='no'>
         <nav class=" flex items-center justify-between flex-wrap bg-sky-800 lg:p-6 p-2">
+        <a href="https://wa.me/+962795152466" data-tippy-content="WhatsApp">
+            <button translate='no'
+              class="cursor-grab bg-gradient-to-r from-amber-300 to-amber-600 ... animate-bounce text-white font-bold py-2 px-4 rounded-full">
+              أطلب الآن
+            </button>
+          </a>
           <div class="flex items-center flex-shrink-0 text-white lg:mr-6 mr-0">
             <Link href='/'>
               <div className='flex items-center flex-shrink-0 mr-0 text-white'>
@@ -21,18 +27,12 @@ const Nav = () => {
                   <span class="cursor-grab font-semibold text-xl tracking-tight lg:mx-6 mx-3">صوفاتك</span>
               </div>
             </Link>
-            <a href="https://www.facebook.com/صوفاتك-658378061026720/" data-tippy-content="facebook"
+          </div>
+          <a href="https://www.facebook.com/صوفاتك-658378061026720/" data-tippy-content="facebook"
               target='_blank'
               className='cursor-grab hover:scale-110'>
               <img src='./assest/facebook.png'
                 className='fill-current w-7 h-7' /></a>
-          </div>
-          <a href="https://wa.me/+962795152466" data-tippy-content="WhatsApp">
-            <button translate='no'
-              class="cursor-grab bg-gradient-to-r from-amber-300 to-amber-600 ... animate-bounce text-white font-bold py-2 px-4 rounded-full">
-              أطلب الآن
-            </button>
-          </a>
         </nav>
       </section>
       <div className='lg:pt-0'>
